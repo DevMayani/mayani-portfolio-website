@@ -1441,10 +1441,15 @@ body{
     margin-bottom: 60px !important;
 }
 #banner-right-img{
-    width: 625px;
-    height:600px;
+    width: 525px;
+    height:500px;
     border-radius: 50%;
     margin-left: 52px;
+}
+#new{
+    /* background-color: red; */
+    width: 85%;
+    margin: 0 60px;
 }
 .may{
     color: orange;
