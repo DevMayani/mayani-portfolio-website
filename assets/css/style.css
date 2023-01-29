@@ -858,16 +858,17 @@ body{
 }
 .contact-form input,
 .contact-form textarea{
-    background: #fefeff;
+    background: rgb(33, 30, 57);
     border: none;
-    box-shadow: 0 0 85px 0 #e9eefc;
     font-size: 16px;
-    color: var(--text-color);
     padding: 17px 30px;
     border-radius: 30px;
     width: 100%;
     font-family: 'Lato', sans-serif;
     margin-bottom: 23px;
+}
+#mm{
+    background-color: red;
 }
 .contact-form input::placeholder,
 .contact-form textarea::placeholder{
