@@ -1,3 +1,3 @@
 # portfolio-website
-website link:http://mayani-portfolio.netlify.app/
+website link:https://devmayani.github.io/mayani-portfolio-website/
 ..
